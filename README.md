@@ -17,7 +17,7 @@ Data Scientist with a Master's degree and practical experience in developing and
             
                   
                   
-<p align="left">
+  <p align="left">
                       <a href="https://www.github.com/sumanthvasista107" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -45,4 +45,5 @@ Data Scientist with a Master's degree and practical experience in developing and
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<a href="https://github.com/sumanthvasista107" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthvasista107&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                    </a></p>
+                    <a href="https://github.com/sumanthvasista107" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthvasista107&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
